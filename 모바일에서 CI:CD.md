@@ -14,7 +14,21 @@ CD의 목표는 소프트웨어를 더 빠르고, 주기적으로 빌드 후 테
 
 
 
- 
+-------
+
+### 앱에서는 CI/CD 사용 이유
+
+수동으로 개발자의 손을 통하여 배포가 이루어지다 보니 Human Error 의 발생의 소지가 있으며, 앱은 서버의 배포와 달리 한번 잘못 배포가 되면 다시 배포하는 과정이 생기기 때문에 최대한 자동화를 이루기 위해서 이다.
+
+
+
+
+
+``` 참고자료 ```
+
+[LINE-CI/CD 자동화가 가져다 준 행복](https://engineering.linecorp.com/ko/blog/ci-cd-automation/)
+
+[우아한 형제들-모바일에서 CI/CD 도입](https://techblog.woowahan.com/2579/)
 
 
 
